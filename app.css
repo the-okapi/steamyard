@@ -1,0 +1,90 @@
+* {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+}
+button {
+    background-color: #0f4d92;
+}
+
+.topbar {
+    background-color: skyblue;
+    text-align: center;
+    vertical-align: baseline;
+    width:inherit;
+    padding: 1.5vw;
+}
+
+.bar {
+    background-color: skyblue;
+    text-align: center;
+    vertical-align: baseline;
+    width: inherit;
+    padding: 0.75;
+}
+
+h1 {
+    font-size: 45px;
+    font-family: 'Bungee Shade';
+}
+
+h2 {
+    font-size: 35px;
+    font-family: 'Bungee Shade';
+}
+
+.names {
+    text-align: center;
+}
+
+.video {
+    width:50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 60px;
+}
+
+p {
+    margin: 40px;
+    font-size: 18px;
+    font-family: 'Nunito';
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.bgrid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+img {
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 10%;
+    width: 80%;
+    height: 70%;
+    scale: 1;
+    border-radius: 10px;
+}
+
+video {
+    border-radius: 10px;
+}
+
+.size {
+    margin-right: 15%;
+    margin-left: 10%;
+    margin-top: 15%;
+    width: 80%;
+    height: 70%;
+    font-size: 22.5px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-family: 'Bungee Shade';
+}
