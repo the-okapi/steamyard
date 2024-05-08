@@ -1,6 +1,6 @@
 var client = new XMLHttpRequest();
 client.open('GET', 'data/test.txt');
-client.onreadystatechange = function() {
+client.onload = function() {
   alert(client.responseText);
 }
 client.send();
