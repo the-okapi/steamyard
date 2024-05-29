@@ -46,6 +46,7 @@ h2 {
 
 p {
     margin: 40px;
+    margin-top: 20px;
     font-size: 18px;
     font-family: 'Nunito';
 }
@@ -64,7 +65,7 @@ img {
     margin-left: 10%;
     margin-right: 10%;
     margin-top: 10%;
-    margin-bottom: 10%;
+    margin-bottom: 3%;
     width: 80%;
     scale: 1;
     border-radius: 10px;    
